@@ -18,7 +18,9 @@ Design space exploration with VAE step by step:
     Conditional Variational AutoEncoder example notebook was prepared using keras and following references:
     
     https://blog.keras.io/building-autoencoders-in-keras.html
+    
     https://keras.io/examples/generative/vae/
+    
     https://wiseodd.github.io/techblog/2016/12/17/conditional-vae/
 
 5. Generate samples from the latent space using decoder
