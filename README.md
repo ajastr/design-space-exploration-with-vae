@@ -1,6 +1,9 @@
+![alt text](https://github.com/ajastr/design-space-exploration-with-vae/blob/main/WEB%20APP/ReadmePicture.jpg?raw=true)
+
+
 Design space exploration with VAE step by step:
 
-
+![alt text](https://github.com/ajastr/design-space-exploration-with-vae/blob/main/MODEL/WofklowPicture.png)
 1. Create parametric model
 
     Example model in the folder "parametric model" was created in Grasshopper for Rhino.
