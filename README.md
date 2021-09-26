@@ -1,4 +1,4 @@
-![alt text](https://github.com/ajastr/design-space-exploration-with-vae/blob/main/WEB%20APP/ReadmePicture.jpg?raw=true)
+![alt text](https://github.com/ajastr/design-space-exploration-with-vae/blob/main/web_app/ReadmePicture.jpg?raw=true)
 
 https://appserveraj.herokuapp.com/examples/vae
 
